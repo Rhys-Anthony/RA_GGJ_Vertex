@@ -704,3 +704,13 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.03-15.29.16:940][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.02.03-15.29.16:941][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.03-15.29.17:069][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2023.02.03-15.29.26:112][589]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.02.03-15.29.26:112][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.03-15.29.26:113][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-15.29.27:221][589]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/AI/Enemy1.Enemy1) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.02.03-15.29.27:221][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Enemy1.Enemy1
+[2023.02.03-15.29.27:222][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-15.29.27:651][589]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.03-15.29.27:726][590]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.03-15.29.28:489][663]LogSlate: Window 'Plugins' being destroyed
+[2023.02.03-15.29.28:499][663]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
